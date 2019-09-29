@@ -74,9 +74,9 @@ module.exports = {
                     options: {
                         fix: true
                     }
-                })
+                });
             }
         },
         cache: true
     }
-}
+};

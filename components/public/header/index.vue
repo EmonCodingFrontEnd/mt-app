@@ -12,7 +12,7 @@
     </el-row>
 </template>
 <script>
-import Geo from './geo'
+import Geo from './geo';
 export default {
     components: {
         Geo
@@ -20,5 +20,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@import "@/assets/css/public/layout.scss";
+@import '@/assets/css/public/layout.scss';
 </style>
